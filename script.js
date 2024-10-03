@@ -5,3 +5,5 @@ function approvedOrnot(score){
 
 approvedOrnot(5);
 approvedOrnot(7);
+
+salve salve amanha é dia de costas e biceps
